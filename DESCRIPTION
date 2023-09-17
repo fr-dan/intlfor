@@ -1,10 +1,10 @@
 Package: intlfor
-Title: What the Package Does (One Line, Title Case)
+Title: Analayse UN FAO Forestry Production and Trade Data in R
 Version: 0.0.0.9000
 Authors@R: c(
  .
        )
-Description: What the package does (one paragraph).
+Description: Download, manipulate and analyse UN FAO Forestry Production and Trade data in R
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
